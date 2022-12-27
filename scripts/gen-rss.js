@@ -5,8 +5,8 @@ const matter = require('gray-matter')
 
 async function generate() {
   const feed = new RSS({
-    title: 'Your Name',
-    site_url: 'https://yoursite.com',
+    title: 'Fadi Albitar',
+    site_url: 'https://fadidash1.netlify.app/',
     feed_url: 'https://yoursite.com/feed.xml'
   })
 
