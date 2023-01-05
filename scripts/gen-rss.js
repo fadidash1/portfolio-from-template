@@ -7,7 +7,7 @@ async function generate() {
   const feed = new RSS({
     title: 'Fadi Albitar',
     site_url: 'https://fadidash1.netlify.app/',
-    feed_url: 'https://yoursite.com/feed.xml'
+    feed_url: 'https://fadidash1.netlify.app/'
   })
 
   const posts = await fs.readdir(path.join(__dirname, '..', 'pages', 'posts'))

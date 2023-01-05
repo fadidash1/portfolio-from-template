@@ -2,7 +2,7 @@
 title: Keep the Line
 date: 2022/12/16
 description: let's descover it together.
-tag: web development , react app , javascript , sql
+tag: web development , react app , javascript , sql, heroku
 author: You
 ---
 # KEEP THE LINE
@@ -11,7 +11,7 @@ author: You
 
 ###### ***THE IDEA** **IN SIMPLE TERM***
 
-The app as solution: 
+The app as solution:
 
 A simple mobile App where Taker can send another Keeper to do the queue and when it’s almost his turn he could communicate **on** with the **Taker**.
 
